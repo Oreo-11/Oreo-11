@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Montserrat-reguler";
+	src:url("../fonts/Montserrat-ExtraLight_1.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "peace_sans";
+	src:url("../fonts/Montserrat-Black_1.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}

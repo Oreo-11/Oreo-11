@@ -1,0 +1,239 @@
+html{
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body{
+    background: #8745DC;
+    margin: 0px;
+    height: 129vh;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+.center{
+    display: flex;
+    justify-content: center;
+    bottom: 136px;
+    position: relative;
+}
+.text{
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: "peace_sans";
+    letter-spacing: 0.225em;
+}
+.fon{
+    width: 54px;
+    height: 62px;
+    
+}
+.bl{
+    width: 100%;
+    height: 100%;
+    background: #EE174B;
+    border-radius: 0px 0px 27px 0px;
+}
+.img{
+    width: 121px;
+    height: 123px;
+    margin: 0 auto;
+    left: 38px;
+    position: relative;
+    bottom: 49px;
+}
+.imgFon{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+div.korona{
+    margin: -145px auto;
+    width: 207px;
+    height: 182px;
+}
+img.korona{
+    width: 100%;
+    height: 100%;
+}
+div.Pr{
+    margin: 175px auto;
+}
+.prin{
+    color: white;
+    text-align: center;
+    font-family: "Montserrat-reguler";
+    font-size: 48px;
+    letter-spacing: 0.20em;
+}
+div.foto{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 147px;
+    z-index: 1;
+}
+div.block{
+    width: 100%;
+    height: 210px;
+    background: #E1CAE4;
+    bottom:330px;
+    position: relative;
+}
+.mont{
+    text-align: center;
+    position: relative;
+    bottom: 320px;
+    font-size: 22px;
+    line-height: 33px;
+    color: white;
+    letter-spacing: 0.15em;
+    font-family: "Montserrat-reguler";
+}
+div.serd{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 149px;
+    bottom: 300px;
+    position: relative;
+}
+.bel{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 20px;
+    bottom: 267px;
+    position: relative;
+}
+.ves{
+    width: 237px;
+    height: 16px;
+    background: white;
+    border-radius: 0px 0px 8px 8px;
+}
+h1.text2{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 0.2em;
+    font-family: "Montserrat-reguler";
+}
+div.text2{
+    position: relative;
+    bottom: 243px;
+}
+h1.text3{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 0.2em;
+    line-height: 29px;
+    font-family: "Montserrat-reguler";
+}
+div.text3{
+    position: relative;
+    bottom: 193px;
+}
+h1.text4{
+    text-align: center;
+    color: white;
+    font-size: 74px;
+    letter-spacing: 0.2em;
+    line-height: 29px;
+    font-family: "peace_sans";
+}
+div.text4{
+    position: relative;
+    bottom: 173px;
+}
+h1.text5{
+    text-align: center;
+    color: white;
+    font-size: 59px;
+    letter-spacing: 0.2em;
+    line-height: 29px;
+    font-family: "peace_sans";
+}
+div.text5{
+    position: relative;
+    bottom: 173px;
+}
+.foto4{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+}
+h1.text6{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    letter-spacing: 0.23em;
+    line-height: 56px;
+    font-family: "Montserrat-reguler";
+}
+div.text6{
+    position: relative;
+    bottom: 56px;
+}
+.tebe{
+    width: 145px;
+    height: 145px;
+    padding-left: 4px;
+}
+.tebe1{
+    transform: rotate(330deg);
+    position: relative;
+    top: 33px;
+    width: 145px;
+    height: 145px;
+    padding-left: 4px;
+}
+.tebe2{
+    transform: rotate(30deg);
+    position: relative;
+    top: 33px;
+    width: 145px;
+    height: 145px;
+    padding-left: 4px;
+}
+h1.text7{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    letter-spacing: 0.23em;
+    line-height: 56px;
+    font-family: "Montserrat-reguler";
+}
+div.text7{
+    position: relative;
+    bottom: 36px;
+}
+h1.text8{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    letter-spacing: 0.23em;
+    line-height: 56px;
+    font-family: "Montserrat-reguler";
+}
+div.text8{
+    position: relative;
+    bottom: 35px;
+}
+.bel1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 20px;
+    bottom: 26px;
+    position: relative;
+}
+.ves1{
+    width: 286px;
+    height: 16px;
+    background: white;
+    border-radius: 0px 0px 8px 8px;
+}
